@@ -1,1 +1,1 @@
-# A hook-based reusable function library
+# A hooks
